@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <!-- Optional Banner -->
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner for B. Gurukiran" />
+</p>
 
-<!--
-**Gurukiran-B/Gurukiran-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <!-- Dot-Matrix Name Animation -->
+  <img src="header.svg" alt="B. Gurukiran - dot matrix animation" />
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BGurukiran&style=flat&color=purple" alt="Profile views" /><br />
+  <strong>🚀 Future Software Developer • Entrepreneur</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,git,github,linux&perline=8" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+##  GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BGurukiran&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGurukiran&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  🤝 Thanks for stopping by — let’s build great things together!
+</p>
