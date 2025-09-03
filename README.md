@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dot-Matrix name Animation -->
-  <img src="header.svg" alt="B.Gurukiran - dot matrix animation" />
+  <img src="hea.svg" alt="B.Gurukiran - dot matrix animation" />
 </div>
 
 <p align="center">
