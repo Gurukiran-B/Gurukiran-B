@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Dot-Matrix  Name Animation -->
+  <!-- Dot-Matrix name Animation -->
   <img src="header.svg" alt="B.Gurukiran - dot matrix animation" />
 </div>
 
