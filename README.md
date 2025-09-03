@@ -1,11 +1,6 @@
-<p align="center">
-  <!-- Optional Banner -->
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner for B. Gurukiran" />
-</p>
-
 <div align="center">
   <!-- Dot-Matrix Name Animation -->
-  <img src="header.svg" alt="B. Gurukiran - dot matrix animation" />
+  <img src="header.svg" alt="B.Gurukiran - dot matrix animation" />
 </div>
 
 <p align="center">
