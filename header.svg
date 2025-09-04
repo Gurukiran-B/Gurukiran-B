@@ -1,36 +1,121 @@
 <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask id="shineMask">
-      <linearGradient id="shineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="white" stop-opacity="0"/>
-        <stop offset="50%" stop-color="white" stop-opacity="1"/>
-        <stop offset="100%" stop-color="white" stop-opacity="0"/>
-      </linearGradient>
-      <rect width="100%" height="100%" fill="url(#shineGrad)" />
+    <!-- Royal gradient with deep gold and bronze -->
+    <linearGradient id="royalGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="20%" stop-color="#DAA520"/>
+      <stop offset="40%" stop-color="#B8860B"/>
+      <stop offset="60%" stop-color="#CD853F"/>
+      <stop offset="80%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+    
+    <!-- Royal purple accent -->
+    <linearGradient id="purpleAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4B0082"/>
+      <stop offset="50%" stop-color="#8A2BE2"/>
+      <stop offset="100%" stop-color="#4B0082"/>
+    </linearGradient>
+    
+    <!-- Enhanced royal glow -->
+    <filter id="royalGlow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Royal shine sweep -->
+    <linearGradient id="royalShine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="35%" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0.9)"/>
+      <stop offset="65%" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+    
+    <mask id="royalShineMask">
+      <rect width="100%" height="100%" fill="url(#royalShine)">
+        <animateTransform
+          attributeName="transform"
+          type="translate"
+          values="-800 0; 800 0; -800 0"
+          dur="5s"
+          repeatCount="indefinite"/>
+      </rect>
     </mask>
   </defs>
-
+  
   <style>
-    .shimmer-text {
-      font-family: monospace;
-      font-size: 80px;
-      fill: none;
-      stroke: white;
-      stroke-width: 2px;
-      mask: url(#shineMask);
-      /* Move the mask from left to right continuously */
-      animation: shimmer 3s linear infinite;
+    .royal-text {
+      font-family: 'Times New Roman', serif;
+      font-size: 68px;
+      font-weight: bold;
+      fill: url(#royalGradient);
+      filter: url(#royalGlow);
+      animation: royalPulse 4s ease-in-out infinite;
     }
-
-    @keyframes shimmer {
-      0%   { mask-position: -100% 0; }
-      100% { mask-position: 100% 0; }
+    
+    .royal-shine {
+      font-family: 'Times New Roman', serif;
+      font-size: 68px;
+      font-weight: bold;
+      fill: white;
+      mask: url(#royalShineMask);
+      opacity: 0.7;
+    }
+    
+    @keyframes royalPulse {
+      0%, 100% { 
+        filter: url(#royalGlow) drop-shadow(0 0 25px rgba(255, 215, 0, 0.6));
+        transform: scale(1);
+      }
+      50% { 
+        filter: url(#royalGlow) drop-shadow(0 0 35px rgba(255, 215, 0, 0.9));
+        transform: scale(1.02);
+      }
     }
   </style>
-
-  <rect width="100%" height="100%" fill="black" />
-
-  <text x="50%" y="60%" text-anchor="middle" class="shimmer-text">
+  
+  <!-- Royal dark background -->
+  <rect width="100%" height="100%" fill="#0F0F23"/>
+  
+  <!-- Royal decorative crown elements -->
+  <polygon points="150,40 160,20 170,40 180,25 190,40 200,20 210,40" 
+           fill="url(#royalGradient)" opacity="0.8">
+    <animateTransform attributeName="transform" type="rotate" 
+                      values="0 180 30; 5 180 30; 0 180 30" dur="6s" repeatCount="indefinite"/>
+  </polygon>
+  
+  <polygon points="590,40 600,20 610,40 620,25 630,40 640,20 650,40" 
+           fill="url(#royalGradient)" opacity="0.8">
+    <animateTransform attributeName="transform" type="rotate" 
+                      values="0 620 30; -5 620 30; 0 620 30" dur="6s" repeatCount="indefinite"/>
+  </polygon>
+  
+  <!-- Main royal text -->
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" class="royal-text">
     B.Gurukiran
   </text>
+  
+  <!-- Royal shine overlay -->
+  <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle" class="royal-shine">
+    B.Gurukiran
+  </text>
+  
+  <!-- Royal decorative lines with gems -->
+  <line x1="80" y1="130" x2="220" y2="130" stroke="url(#purpleAccent)" stroke-width="3" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="150" cy="130" r="4" fill="url(#royalGradient)">
+    <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <line x1="580" y1="130" x2="720" y2="130" stroke="url(#purpleAccent)" stroke-width="3" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="650" cy="130" r="4" fill="url(#royalGradient)">
+    <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
 </svg>
