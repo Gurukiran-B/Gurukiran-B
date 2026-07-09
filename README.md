@@ -1,166 +1,146 @@
-::: {align="center"}
-# Hi 👋 I'm B. Gurukiran
 
-### Computer Science Undergraduate \| Full-Stack & AI Application Developer
+<div align="center">
 
-```{=html}
+<img src="header.svg" alt="B. Gurukiran" width="100%" />
+
+# 👋 Hi, I'm B. Gurukiran
+
+### Computer Science Undergraduate | Full-Stack & AI Application Developer
+
 <p>
-```
-Building real-world software using
-`<strong>`{=html}Flutter`</strong>`{=html},
-`<strong>`{=html}FastAPI`</strong>`{=html},
-`<strong>`{=html}PyTorch`</strong>`{=html}, and
-`<strong>`{=html}Firebase`</strong>`{=html}.
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=Gurukiran-B&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
-```
-:::
 
-------------------------------------------------------------------------
+<p>
+Passionate about building real-world software using <b>Flutter</b>, <b>FastAPI</b>, <b>PyTorch</b>, and <b>Firebase</b>.
+</p>
 
-## 👨‍💻 About Me
+</div>
 
--   🎓 B.E. Computer Science & Engineering, HKBK College of Engineering
-    (VTU)
--   💻 Passionate about Full-Stack Development, AI Applications, and
-    Backend Engineering
--   🚀 Currently building AI-powered software and real-world
-    applications
--   🌱 Currently learning Data Structures & Algorithms, Machine
-    Learning, and AWS
--   🎯 Goal: Become a Software Engineer building impactful products
+---
 
-------------------------------------------------------------------------
+# 👨‍💻 About Me
 
-## 🛠 Tech Stack
+- 🎓 B.E. Computer Science & Engineering, HKBK College of Engineering (VTU)
+- 💻 Interested in Full-Stack Development, Backend Engineering and AI Applications
+- 🚀 Building practical software that solves real-world problems
+- 🌱 Currently learning Data Structures & Algorithms, AWS and Machine Learning
+- 🎯 Aspiring Software Engineer
+
+---
+
+# 🛠 Tech Stack
 
 ### Programming Languages
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,python" />`{=html}
-```{=html}
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
-```
+
 ### Frameworks & Technologies
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,firebase" />`{=html}
-```{=html}
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,flask,firebase" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
-```
+
 ### Databases & Cloud
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mysql,aws" />`{=html}
-```{=html}
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,aws" />
 </p>
-```
+
 ### Tools
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode" />`{=html}
-```{=html}
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚦 Traffica
-
+## 🚦 Traffica
 **AI-Powered Smart Traffic & Route Optimization Platform**
 
-**Tech:** Flutter • FastAPI • Firebase • PyTorch • Mapbox •
-OpenWeatherMap
+**Tech:** Flutter • FastAPI • Firebase • PyTorch • Mapbox • OpenWeatherMap
 
--   Hybrid route optimization using Bellman-Ford and A\*
--   PyTorch-based traffic prediction
--   Real-time navigation with Mapbox
--   Firebase authentication and backend integration
+- Hybrid route optimization using Bellman-Ford and A*
+- PyTorch-based traffic prediction
+- Weather-aware routing
+- Firebase authentication and Mapbox integration
 
 🔗 https://github.com/Gurukiran-B/Traffica
 
-------------------------------------------------------------------------
+---
 
-### 🤖 SafeLab Assistant
-
+## 🤖 SafeLab Assistant
 **RAG-Based AI SOP Assistant**
 
 **Tech:** Python • Flask • Streamlit • Sentence Transformers • Groq API
 
--   Semantic search for laboratory SOPs
--   RAG pipeline with Groq Llama 3
--   Flask, Streamlit and CLI interfaces
+- Semantic search using RAG
+- Context-aware responses with Groq Llama 3
+- Flask, Streamlit and CLI interfaces
 
 🔗 https://github.com/Gurukiran-B/safelab-assistant
 
-------------------------------------------------------------------------
+---
 
-### 📅 EventTrack
-
+## 📅 EventTrack
 **Event Management Dashboard**
 
 **Tech:** Flask • Firebase Firestore • HTML • CSS • JavaScript
 
--   REST APIs
--   CRUD operations
--   Firebase Firestore integration
+- REST APIs
+- CRUD Operations
+- Firebase Firestore Integration
 
 🔗 https://github.com/Gurukiran-B/Event-track
 
-------------------------------------------------------------------------
+---
 
-## 📚 Current Focus
+# 📚 Current Focus
 
--   📖 Data Structures & Algorithms
--   ⚙️ Backend Development
--   🤖 Artificial Intelligence
--   ☁️ AWS Cloud
--   💼 Software Engineering Internships
+- 📖 Data Structures & Algorithms
+- ⚙️ Backend Development
+- 🤖 AI & Machine Learning
+- ☁️ AWS Cloud
+- 💼 Software Engineering Internships
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=Gurukiran-B&show_icons=true&theme=tokyonight"/>`{=html}
-
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukiran-B&layout=compact&theme=tokyonight"/>`{=html}
-
-```{=html}
+<img src="https://github-readme-stats.vercel.app/api?username=Gurukiran-B&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukiran-B&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukiran-B&theme=tokyonight"/>`{=html}
-```{=html}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukiran-B&theme=tokyonight&hide_border=true"/>
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
--   GitHub: https://github.com/Gurukiran-B
--   LinkedIn: https://linkedin.com/in/gurukiran-b-79bb17309
--   Email: gurukiranbhaskara2004@gmail.com
+<p align="center">
 
-------------------------------------------------------------------------
+<a href="https://github.com/Gurukiran-B">GitHub</a> •
+<a href="https://www.linkedin.com/in/gurukiran-b-79bb17309">LinkedIn</a> •
+<a href="mailto:gurukiranbhaskara2004@gmail.com">Email</a>
 
-::: {align="center"}
+</p>
+
+---
+
+<div align="center">
+
 ### 💡 *"Code. Learn. Build. Repeat."*
 
 Thanks for visiting my profile!
-:::
+
+</div>
