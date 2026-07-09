@@ -1,128 +1,166 @@
-<div align="center">
-  <!-- Animated Name Header -->
-  <img src="header.svg" alt="B. Gurukiran" width="100%" />
-</div>
+::: {align="center"}
+# Hi 👋 I'm B. Gurukiran
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BGurukiran&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+### Computer Science Undergraduate \| Full-Stack & AI Application Developer
+
+```{=html}
+<p>
+```
+Building real-world software using
+`<strong>`{=html}Flutter`</strong>`{=html},
+`<strong>`{=html}FastAPI`</strong>`{=html},
+`<strong>`{=html}PyTorch`</strong>`{=html}, and
+`<strong>`{=html}Firebase`</strong>`{=html}.
+```{=html}
 </p>
+```
+:::
 
-<h1 align="center">Software Developer | Technology Enthusiast | Problem Solver</h1>
-
-<p align="center">
-  <em>Passionate about creating innovative solutions through code and driving technological advancement</em>
-</p>
-
----
+------------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
-- 🎓 **Undergraduate Student** specializing in Computer Science and Software Development
-- 🔭 **Currently Working On:** Health monitoring applications and IoT automation systems
-- 🌱 **Learning:** Advanced data structures, algorithms, and modern web technologies
-- 💡 **Interests:** Full-stack development, automation technologies, and system design
-- 🎯 **Career Goal:** To become a skilled software engineer contributing to impactful technology solutions
-- 📫 **Reach me at:** [Your Email Address]
+-   🎓 B.E. Computer Science & Engineering, HKBK College of Engineering
+    (VTU)
+-   💻 Passionate about Full-Stack Development, AI Applications, and
+    Backend Engineering
+-   🚀 Currently building AI-powered software and real-world
+    applications
+-   🌱 Currently learning Data Structures & Algorithms, Machine
+    Learning, and AWS
+-   🎯 Goal: Become a Software Engineer building impactful products
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-<div align="center">
+### Programming Languages
 
-### **Programming Languages**
+```{=html}
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" alt="Programming Languages" />
-  </a>
+```
+`<img src="https://skillicons.dev/icons?i=c,cpp,python" />`{=html}
+```{=html}
 </p>
+```
+### Frameworks & Technologies
 
-### **Frameworks & Technologies**
+```{=html}
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" alt="Frameworks & Technologies" />
-  </a>
+```
+`<img src="https://skillicons.dev/icons?i=flutter,fastapi,flask,firebase" />`{=html}
+```{=html}
 </p>
+```
+### Databases & Cloud
 
-### **Tools & Platforms**
+```{=html}
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,arduino" alt="Tools & Platforms" />
-  </a>
+```
+`<img src="https://skillicons.dev/icons?i=mysql,aws" />`{=html}
+```{=html}
 </p>
+```
+### Tools
 
-</div>
+```{=html}
+<p>
+```
+`<img src="https://skillicons.dev/icons?i=git,github,vscode" />`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 💼 Professional Experience
+## 🚀 Featured Projects
 
-- **Project Development:** Health monitoring applications with real-time data processing
-- **IoT Development:** Sensor programming and automation system design
-- **Technical Training:** Actively pursuing industry certifications and skill enhancement programs
-- **Open Source:** Contributing to community projects and maintaining personal repositories
+### 🚦 Traffica
 
----
+**AI-Powered Smart Traffic & Route Optimization Platform**
 
-## 🎯 Current Focus
+**Tech:** Flutter • FastAPI • Firebase • PyTorch • Mapbox •
+OpenWeatherMap
 
-- Building scalable web applications with modern technologies
-- Exploring machine learning and data analysis tools
-- Developing proficiency in cloud platforms and DevOps practices
-- Preparing for software engineering roles and technical interviews
+-   Hybrid route optimization using Bellman-Ford and A\*
+-   PyTorch-based traffic prediction
+-   Real-time navigation with Mapbox
+-   Firebase authentication and backend integration
 
----
+🔗 https://github.com/Gurukiran-B/Traffica
 
-## 🌐 Professional Networks
+------------------------------------------------------------------------
 
+### 🤖 SafeLab Assistant
+
+**RAG-Based AI SOP Assistant**
+
+**Tech:** Python • Flask • Streamlit • Sentence Transformers • Groq API
+
+-   Semantic search for laboratory SOPs
+-   RAG pipeline with Groq Llama 3
+-   Flask, Streamlit and CLI interfaces
+
+🔗 https://github.com/Gurukiran-B/safelab-assistant
+
+------------------------------------------------------------------------
+
+### 📅 EventTrack
+
+**Event Management Dashboard**
+
+**Tech:** Flask • Firebase Firestore • HTML • CSS • JavaScript
+
+-   REST APIs
+-   CRUD operations
+-   Firebase Firestore integration
+
+🔗 https://github.com/Gurukiran-B/Event-track
+
+------------------------------------------------------------------------
+
+## 📚 Current Focus
+
+-   📖 Data Structures & Algorithms
+-   ⚙️ Backend Development
+-   🤖 Artificial Intelligence
+-   ☁️ AWS Cloud
+-   💼 Software Engineering Internships
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Stats
+
+```{=html}
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_HANDLE">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_HANDLE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=Gurukiran-B&show_icons=true&theme=tokyonight"/>`{=html}
+
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukiran-B&layout=compact&theme=tokyonight"/>`{=html}
+
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurukiran-B&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
 
-## 📊 GitHub Analytics
+## 🌐 Connect With Me
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BGurukiran&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGurukiran&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-  
-</div>
+-   GitHub: https://github.com/Gurukiran-B
+-   LinkedIn: https://linkedin.com/in/gurukiran-b-79bb17309
+-   Email: gurukiranbhaskara2004@gmail.com
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BGurukiran&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+------------------------------------------------------------------------
 
----
+::: {align="center"}
+### 💡 *"Code. Learn. Build. Repeat."*
 
-## 🏆 Achievements & Recognition
-
-- 🎯 Active contributor to open-source projects
-- 📚 Continuous learner with focus on emerging technologies
-- 🤝 Collaborative team player with strong problem-solving skills
-- 💻 Proficient in multiple programming paradigms and development methodologies
-
----
-
-<div align="center">
-  <h3>💡 "Code is poetry written in logic" 💡</h3>
-  <p><em>Let's connect and build innovative solutions together!</em></p>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
+Thanks for visiting my profile!
+:::
